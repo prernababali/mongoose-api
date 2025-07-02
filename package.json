@@ -1,0 +1,25 @@
+{
+  "name": "prerana-first-api",
+  "version": "1.1.0",
+  "description": "A begiiner Express API built by Prerana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freecodecamp",
+    "express",
+    "api",
+    "node",
+    "backend"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@freecodecamp/example": "~1.1.0",
+    "dotenv": "^16.6.0",
+    "express": "^5.1.0",
+    "mongoose": "^5.11.15"
+  }
+}
